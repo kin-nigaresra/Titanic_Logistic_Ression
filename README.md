@@ -1,4 +1,4 @@
-# Titanic_Logisctic_Ression
+# Titanic_Logistic_Ression
 In this study i want to present Logistic Regression Model.
 I used titanic dataset which is a known,
 Let's estimate the probability of people surviving given their characteristics.
